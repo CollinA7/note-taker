@@ -4,19 +4,18 @@
   
   This application is meant to provide your busy life with structure in a convenient format.
   
+  
+  <img src="public\assets\images\bg-image.jpg">
+  
   ## Table of Contents
   
   - [Installation](#installation)
 
   - [Usage](#usage)
-
-  - [Credits](#credits)
-
-  - [Licenses](#license)
   
   ## Installation
   
-  Launch anywhere you have an internet connection to ____!
+  Launch anywhere you have an internet connection to [Here](https://lit-sierra-76392.herokuapp.com/)!
   
   ## Usage
   
