@@ -12,8 +12,4 @@ router.post('/notes', (req, res) => {
     res.json(notes);
 });
 
-// router.delete('/notes/:id', (req, res) => {
-//     res.findIndex
-// })
-
 module.exports = router;
